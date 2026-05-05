@@ -3,7 +3,4 @@ Projeto desenvolvido como exercício de front-end, focando na replicação da id
 Sobre o projeto
 O objetivo central foi exercitar a tradução de um design real para código, focando na semântica, na organização dos estilos e na aplicação de responsividade básica. É um registro do meu aprendizado inicial na área de front-end.
 
-O que pratiquei:
-Estrutura e Semântica: Organização do código e uso correto das tags.
-Estilização: Aplicação de CSS para replicar a identidade visual do design original.
-Responsividade: Ajuste de layout para diferentes tamanhos de tela.
+Durante o desenvolvimento, foquei em organizar o código com o uso semântico das tags HTML e em aplicar estilos CSS para replicar fielmente a identidade visual da marca. Além disso, trabalhei na responsividade, garantindo que o layout fosse funcional e adaptado a diferentes tamanhos de tela.
